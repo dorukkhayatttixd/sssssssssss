@@ -1,0 +1,17 @@
+{
+  "name": "discord-log-botu-v14",
+  "version": "0.0.1",
+  "description": "D Code Youtube Kanalı Tarafından Hazırlanmış Lisanslı Log Bot Altyapısıdır Discord Sürümü V14",
+  "main": "dcode.js",
+  "scripts": {
+    "test": "!"
+  },
+  "keywords": [
+    "Dcode"
+  ],
+  "author": "Discord : Deathh#3844 , Youtube : Dcode , Efe ÇELİK ( Lisans Sahibi )",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
